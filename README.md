@@ -1,8 +1,6 @@
 # Projetos-HTML
 **Desenvolvimento_Web-2025-TIP4**
 
-## Atividades - Desenvolvimento Web
-
 **Estudante:** João Augusto Gonsaga de Castro  
 **Professor:** Thomaz Maia  
 
