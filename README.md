@@ -4,10 +4,10 @@
 **Estudante:** João Augusto Gonsaga de Castro  
 **Professor:** Thomaz Maia  
 
-- [Atividade - 01](https://augusto1804.github.io/Atividade-01/)  
-- [Atividade - 02](https://augusto1804.github.io/Atividade-02/)  
-- [Atividade - 03](https://augusto1804.github.io/Atividade-03/)  
-- [Atividade - 04](https://augusto1804.github.io/Atividade-04/)  
-- [Atividade - 05](https://augusto1804.github.io/Atividade-05/)  
-- [Atividade - 06](https://augusto1804.github.io/Atividade-06/)  
-- [Atividade - 07](https://augusto1804.github.io/Atividade-07/)  
+- [P01](https://augusto1804.github.io/Atividade-01/)  
+- [P02](https://augusto1804.github.io/Atividade-02/)  
+- [P03](https://augusto1804.github.io/Atividade-03/)  
+- [P04](https://augusto1804.github.io/Atividade-04/)  
+- [P05](https://augusto1804.github.io/Atividade-05/)  
+- [P06](https://augusto1804.github.io/Atividade-06/)  
+- [P07](https://augusto1804.github.io/Atividade-07/)  
