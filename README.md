@@ -6,8 +6,8 @@
 
 - [P01](https://augusto1804.github.io/Projeto-01/)  
 - [P02](https://augusto1804.github.io/Projeto-02/)  
-- [P03](https://augusto1804.github.io/Atividade-03/)  
-- [P04](https://augusto1804.github.io/Atividade-04/)  
-- [P05](https://augusto1804.github.io/Atividade-05/)  
-- [P06](https://augusto1804.github.io/Atividade-06/)  
-- [P07](https://augusto1804.github.io/Atividade-07/)  
+- [P03](https://augusto1804.github.io/Projeto-03/)  
+- [P04](https://augusto1804.github.io/Projeto-04/)  
+- [P05](https://augusto1804.github.io/Projeto-05/)  
+- [P06](https://augusto1804.github.io/Projeto-06/)  
+- [P07](https://augusto1804.github.io/Projeto-07/)  
